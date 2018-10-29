@@ -10,7 +10,7 @@
     "128": "icon-128x128.png" },
 
   "permissions": [ "tabs" ],
-  //"offline_enabled": true,
+  //"offline_enabled": true, unable to perform this
   "browser_action": {
 	"browser_style": true,
     "default_icon": "icon-16x16.png",
