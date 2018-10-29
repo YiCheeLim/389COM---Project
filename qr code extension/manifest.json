@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "QR-Code",
+  "description": "Show QR-Code",
+  "version": "1.0.0",
+  "icons": {
+    "16": "icon-16x16.png",
+    "48": "icon-48x48.png",
+    "128": "icon-128x128.png" },
+
+  "permissions": [ "tabs" ],
+  //"offline_enabled": true,
+  "browser_action": {
+	"browser_style": true,
+    "default_icon": "icon-16x16.png",
+    "default_popup": "popup.html"
+  }
+}
