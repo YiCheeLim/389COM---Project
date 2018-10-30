@@ -11,6 +11,10 @@ body {
   color: red;
 }
 
+.head {
+  font-weight: bold;
+}
+
 #textbox {
   width: 100%;
   border: 1px solid silver;
